@@ -115,7 +115,7 @@ const App = () => {
 
       {/* Footer */}
       <footer className="mt-16 text-center text-yellow-300 font-poppins text-sm">
-        © Aznidi 2024. Tous droits réservés. <a href="https://aznidi.news" target="_blank" rel="noopener noreferrer" className="text-yellow-500 underline">aznidi.news</a>
+        © Aznidi 2024. Tous droits réservés.<br> <a href="https://aznidi.news" target="_blank" rel="noopener noreferrer" className="text-yellow-500 underline">aznidi.news</a>
       </footer>
     </div>
   );
